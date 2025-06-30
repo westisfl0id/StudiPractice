@@ -6,7 +6,7 @@
 ## 🚀 Запуск
 
 ```bash
-git clone https://github.com/yourusername/keyword-downloader.git
+git clone https://github.com/westisfl0id/StudiPractice.git
 cd keyword-downloader/server
 npm install
 npm start
