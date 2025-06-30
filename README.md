@@ -7,6 +7,6 @@
 
 ```bash
 git clone https://github.com/westisfl0id/StudiPractice.git
-cd keyword-downloader/server
+cd server
 npm install
 npm start
